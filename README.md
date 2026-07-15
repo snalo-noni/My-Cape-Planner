@@ -1,8 +1,9 @@
 # My-Cape-Planner
-Tourism Chatbot
+
+**Tourism Chatbot**
 A tourism chatbot that accommodates the budget you have, plans your trip, and recommends sites or places to visit based on your destination and preferences.
 
-✨ Core Features
+**✨ Core Features**
 Budget-based recommendations: Enter a budget, and the chatbot suggests experiences (tours, activities, food, transport) that fit within it.
 
 Destination input: Users simply type their destination (GPS cancelled).
@@ -17,7 +18,7 @@ Local insights: Provides cultural tips, safety notes, and seasonal advice.
 
 FAQ support: Handles user questions and feedback.
 
-🚀 Advanced Features (Optional)
+**🚀 Advanced Features**
 Export itineraries via email.
 
 Multi-language support for tourists navigating in their preferred language.
