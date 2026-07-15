@@ -5,17 +5,11 @@ A tourism chatbot that accommodates the budget you have, plans your trip, and re
 
 * **✨ Core Features** *
 Budget-based recommendations: Enter a budget, and the chatbot suggests experiences (tours, activities, food, transport) that fit within it.
-
 Destination input: Users simply type their destination (GPS cancelled).
-
-Experience categories: Adventure, culture, food, nightlife, family-friendly — filter by interest.
-
+Experience categories: Adventure, culture, food, nightlife, family-friendly, filter by interest.
 Dynamic itinerary builder: Generates a day-by-day plan based on budget, time, and preferences.
-
 Real-time availability: Integrates with booking APIs for tours, restaurants, and transport.
-
 Local insights: Provides cultural tips, safety notes, and seasonal advice.
-
 FAQ support: Handles user questions and feedback.
 
 * **🚀 Advanced Features** *
@@ -41,24 +35,24 @@ Example: A tourist in Cape Town types “I have R500 and 6 hours” → the bot 
 🎨 Colour Palette
 Core palette
 
-Primary — Sunset Terracotta #E8734A
+* **Primary — Sunset Terracotta #E8734A** *
 
-Secondary — Deep Ocean Teal #146B71
+* **Secondary — Deep Ocean Teal #146B71** *
 
-Accent — Golden Sand #F4B942
+* **Accent — Golden Sand #F4B942**c*
 
-Neutral light — Warm Off-White #FAF6F1
+* **Neutral light — Warm Off-White #FAF6F1
 
-Neutral dark — Charcoal #2D2A26
+* **Neutral dark — Charcoal #2D2A26* **
 
 Category tag colours
 
-Adventure → Terracotta #E8734A
+* **Adventure → Terracotta #E8734A** *
 
-Culture → Teal #146B71
+* **Culture → Teal #146B71** *
 
-Food → Coral Red #D9534F
+  * **Food → Coral Red #D9534F** *
 
-Nightlife → Deep Purple #6C4A8E
+* **Nightlife → Deep Purple #6C4A8E** *
 
-Family-friendly → Sage Green #6B9080
+* **Family-friendly → Sage Green #6B9080** *
