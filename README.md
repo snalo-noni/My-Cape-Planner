@@ -1,6 +1,4 @@
 # My-Cape-Planner
-
-* **Tourism Chatbot** *
 A tourism chatbot that accommodates the budget you have, plans your trip, and recommends sites or places to visit based on your destination and preferences.
 
 * **✨ Core Features** *
@@ -28,11 +26,11 @@ Multi-language support for tourists navigating in their preferred language.
 | **Hosting** | Azure / AWS / GCP | Scalable cloud infrastructure |
 | **Analytics** | Mixpanel / Firebase | Track user behaviour & improve recommendations |
 
-🌍 Vision
+**🌍 Vision**
 This chatbot could evolve into a super app for tourism — not just recommending experiences, but also booking, guiding, and translating for travellers.
 Example: A tourist in Cape Town types “I have R500 and 6 hours” → the bot suggests a wine tour, a Table Mountain hike, or a cultural museum circuit, complete with transport options.
 
-🎨 Colour Palette
+**🎨 Colour Palette**
 Core palette
 
 * **Primary — Sunset Terracotta #E8734A** *
@@ -41,11 +39,11 @@ Core palette
 
 * **Accent — Golden Sand #F4B942**c*
 
-* **Neutral light — Warm Off-White #FAF6F1
+* **Neutral light — Warm Off-White #FAF6F1** *
 
-* **Neutral dark — Charcoal #2D2A26* **
+* **Neutral dark — Charcoal #2D2A26** *
 
-Category tag colours
+**Category tag colours**
 
 * **Adventure → Terracotta #E8734A** *
 
